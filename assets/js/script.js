@@ -170,4 +170,6 @@ function OpenProtfolio(type) {
     window.open('https://www.linkedin.com/in/glory-ekbote', '_blank');
   else if(type =="github")
     window.open('https://github.com/Gleek231997', '_blank');
+  else if(type =="EmployeeAttrition")
+    window.open('https://github.com/Gleek231997/Employee-Attrition', '_blank');
 }
