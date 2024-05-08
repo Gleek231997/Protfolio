@@ -162,10 +162,10 @@ for (let i = 0; i < navigationLinks.length; i++) {
 function OpenProtfolio(type) {
   if(type == "NCD_bonds")
     window.open('https://stats-at-rutgers.github.io/group-project-breakingbad_44/', '_blank');
-  else if(type ="twitter_seo")
+  else if(type =="twitter_seo")
     window.open('https://github.com/Gleek231997/Advanced-Database', '_blank');
-  else if(type ="deeplearning")
+  else if(type =="deeplearning")
     window.open('https://github.com/Gleek231997/Rethinking-Generalisation-Data-Mining', '_blank');
-  else if(type ="machinelearning")
+  else if(type =="machinelearning")
     window.open('https://github.com/Gleek231997/AQI-Project', '_blank');
 }
