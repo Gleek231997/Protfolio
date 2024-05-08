@@ -4,7 +4,7 @@ This is a fully responsive personal portfolio website, responsive for all device
 
 ## Demo
 
-![vCard Desktop Demo](https://gleek231997.github.io/Protfolio/)
+![Demo](https://gleek231997.github.io/Protfolio/)
 
 ## Prerequisites
 
