@@ -166,6 +166,8 @@ function OpenProtfolio(type) {
     window.open('https://github.com/Gleek231997/Advanced-Database', '_blank');
   else if(type =="deeplearning")
     window.open('https://github.com/Gleek231997/Rethinking-Generalisation-Data-Mining', '_blank');
-  else if(type =="machinelearning")
-    window.open('https://github.com/Gleek231997/AQI-Project', '_blank');
+  else if(type =="linkedin")
+    window.open('https://www.linkedin.com/in/glory-ekbote', '_blank');
+  else if(type =="github")
+    window.open('https://github.com/Gleek231997', '_blank');
 }
