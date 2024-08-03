@@ -443,6 +443,11 @@ main {
   font-size: 18px;
 }
 
+.social-item .contact-social .social-link {
+  color: var(--light-gray-70);
+  font-size: 40px;
+}
+
 
 .social-item .social-link:hover { color: var(--light-gray); }
 
